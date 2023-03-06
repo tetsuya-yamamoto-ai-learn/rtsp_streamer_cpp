@@ -3,8 +3,6 @@
 #include <memory>
 #include <string>
 
-#includr <gst/gst.h>
-
 #include "rclcpp/rclcpp.hpp"
 #include "std_msgs/msg/string.hpp"
 
